@@ -1,0 +1,7 @@
+numpy
+scipy
+torch==1.4.0
+torchvision
+opencv3
+yacs
+tqdm
